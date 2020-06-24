@@ -1,4 +1,4 @@
-This application provides the total number of confirmed cases of COVID-19 cases throughout the world, as well as total cases in a country.
+This application provides the total number of confirmed cases of COVID-19 throughout the world, as well as total cases in a country.
 It also shows the cases confirmed in past 24 hours. 
 
 The data source is CSSE(Centre for Systems and Science Engineering) at John Hopkins university.
