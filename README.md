@@ -13,6 +13,7 @@ Pre-requisites:
 
 * Java version 11 and above should be installed (For HttpClient support)
 * Thymleaf and Bootstrap
+* Spring Boot and Maven
 
 Snapshot:
 
