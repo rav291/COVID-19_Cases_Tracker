@@ -17,4 +17,4 @@ Pre-requisites:
 
 Snapshot:
 
-![Covid-19](https://user-images.githubusercontent.com/24593011/85600987-91acd380-b66b-11ea-8913-9473cc7b88e3.png)
+![covid](https://user-images.githubusercontent.com/24593011/90958742-f2159100-e4b3-11ea-812c-e06d5fae6bf4.png)
